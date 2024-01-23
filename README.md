@@ -1,2 +1,3 @@
 # Testing-Page-OrangeHRM
-Mind map and test case for sign-up page OrangeHRM 
+Manual Testing:
+Mind map and test case for sign-up, employee page OrangeHRM 
